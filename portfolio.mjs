@@ -436,4 +436,4 @@ async function startOpening() {
   loading.hidden = true;
 }
 
-if (currentPage === 'home') startOpening();
+if (currentPage === 'home') enterCover();
